@@ -1,0 +1,6 @@
+/Users/sangpiljung/Desktop/CAB301/Assignment/Assignment/Assignment/obj/Debug/Assignment.csprojAssemblyReference.cache
+/Users/sangpiljung/Desktop/CAB301/Assignment/Assignment/Assignment/obj/Debug/Assignment.csproj.CoreCompileInputs.cache
+/Users/sangpiljung/Desktop/CAB301/Assignment/Assignment/Assignment/bin/Debug/Assignment.exe
+/Users/sangpiljung/Desktop/CAB301/Assignment/Assignment/Assignment/bin/Debug/Assignment.pdb
+/Users/sangpiljung/Desktop/CAB301/Assignment/Assignment/Assignment/obj/Debug/Assignment.exe
+/Users/sangpiljung/Desktop/CAB301/Assignment/Assignment/Assignment/obj/Debug/Assignment.pdb
